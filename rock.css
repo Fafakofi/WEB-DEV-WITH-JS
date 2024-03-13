@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(9, 39, 71);
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h3{
+    color: aliceblue;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    color: aliceblue;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
